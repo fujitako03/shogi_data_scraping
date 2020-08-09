@@ -1,0 +1,1 @@
+# shogi_data_scraping
